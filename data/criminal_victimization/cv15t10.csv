@@ -1,0 +1,44 @@
+Bureau of Justice Statistics,,,,,,,,,
+File name: cv15t10.csv,,,,,,,,,
+"Table 10. Prevalence of violent crime, by victim demographic characteristics, 2014 and 2015",,,,,,,,,
+"Report title:  Criminal Victimization, 2015 NCJ 250180",,,,,,,,,
+"Data source: National Crime Victimization Survey, 2014 and 2015",,,,,,,,,
+"Author:  Jennifer L. Truman, Ph.D., and Rachel E. Morgan, Ph.D., BJS Statisticians",,,,,,,,,
+Refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,
+Date of version: 10/20/2016,,,,,,,,,
+,,,,,,,,,
+Table 10,,,,,,,,,
+"Prevalence of violent crime, by victim demographic characteristics, 2014 and 2015",,,,,,,,,
+Victim demographic characteristic,,Number of persons victimized/a,,,,Prevalence rate/b,,,
+,,2014*,2015,,,2014*,,2015,
+,Total,"2,948,540","2,650,670", ‡,,1.11,%,0.98,% †
+Sex,,,,,,,,,
+,Male,"1,497,430","1,227,870", †,,1.15,%,0.94,% †
+,Female,"1,451,110","1,422,800",,,1.06,,1.03,
+Race/Hispanic origin,,,,,,,,,
+,White/c,"1,848,860","1,667,090",,,1.06,%,0.96,%
+,Black/c,"453,650","394,770",,,1.38,,1.19,
+,Hispanic,"457,320","400,720",,,1.11,,0.93,
+,"Other/c,d","188,710","188,090",,,1,,0.94,
+Age,,,,,,,,,
+,12–17,"422,460","407,850",,,1.68,%,1.64,%
+,18–24,"478,740","445,760",,,1.58,,1.46,
+,25–34,"650,560","476,630", †,,1.51,,1.09, †
+,35–49,"703,980","686,380",,,1.16,,1.13,
+,50–64,"579,770","497,800",,,0.93,,0.79,
+,65 or older,"113,030","136,250",,,0.25,,0.29,
+Marital status,,,,,,,,,
+,Never married,"1,482,570","1,343,010",,,1.61,%,1.44,%
+,Married,"806,200","692,470", ‡,,0.63,,0.54, ‡
+,Widowed,"77,420","92,330",,,0.53,,0.62,
+,Divorced,"410,540","428,830",,,1.58,,1.58,
+,Separated,"151,630","84,370", †,,2.99,,1.65, †
+Note: Detail may not sum to total due to rounding. See appendix table 14 for standard errors.,,,,,,,,,
+*Comparison year.,,,,,,,,,
+†Significant difference from comparison year at the 95% confidence level.,,,,,,,,,
+‡Significant difference from comparison year at the 90% confidence level. ,,,,,,,,,
+a/Number of persons age 12 or older who experienced at least one victimization during the year for violent crime.,,,,,,,,,
+b/Percent of persons age 12 or older who experienced at least one victimization during the year for violent crime. ,,,,,,,,,
+c/Excludes persons of Hispanic or Latino origin.,,,,,,,,,
+"d/Includes American Indian and Alaska Natives; Asian, Native Hawaiian, and Other Pacific Islanders; and persons of two or more races.",,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey, 2014 and 2015. ",,,,,,,,,

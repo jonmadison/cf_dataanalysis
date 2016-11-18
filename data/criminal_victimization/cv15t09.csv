@@ -1,0 +1,45 @@
+Bureau of Justice Statistics,,,,,,,,,,
+File name: cv15t09.csv,,,,,,,,,,
+"Table 9. Number of victims and prevalence rate, by type of crime, 2014 and 2015",,,,,,,,,,
+"Report title:  Criminal Victimization, 2015 NCJ 250180",,,,,,,,,,
+"Data source: National Crime Victimization Survey, 2014 and 2015",,,,,,,,,,
+"Author:  Jennifer L. Truman, Ph.D., and Rachel E. Morgan, Ph.D., BJS Statisticians",,,,,,,,,,
+Refer questions to:  askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,
+Date of version: 10/20/2016,,,,,,,,,,
+,,,,,,,,,,
+Table 9,,,,,,,,,,
+"Number of victims and prevalence rate, by type of crime, 2014 and 2015",,,,,,,,,,
+,,,Number of persons victimized/a,,,,Prevalence rate/b,,,
+Type of crime,,,2014*,2015,,,2014*,,2015,
+Violent crime/c,,,"2,948,540","2,650,670", ‡,,1.11,%,0.98,% †
+,Rape/sexual assault/d,,"150,420","204,000",,,0.06,,0.08,
+,Robbery,,"435,830","375,280",,,0.16,,0.14,
+,Assault,,"2,449,820","2,175,520", †,,0.92,,0.81, †
+,,Aggravated assault,"681,280","560,720", ‡,,0.26,,0.21, ‡
+,,Simple assault,"1,842,100","1,690,190",,,0.69,,0.63,
+,Domestic violence/e,,"596,270","493,310", ‡,,0.22,,0.18, ‡
+,,Intimate partner violence/f,"319,950","310,090",,,0.12,,0.12,
+,Stranger violence,,"1,274,100","1,117,340", ‡,,0.48,,0.41, ‡
+,Violent crime involving injury,,"856,760","778,300",,,0.32,,0.29,
+Serious violent crime/g,,,"1,235,290","1,099,400",,,0.46,%,0.41,%
+,Serious domestic violence/e,,"239,330","212,690",,,0.09,,0.08,
+,,Serious intimate partner violence/f,"128,090","141,530",,,0.05,,0.05,
+,Serious stranger violence,,"600,650","479,870", †,,0.23,,0.18, †
+,Serious violent crime involving weapons,,"815,380","644,370", †,,0.31,,0.24, †
+,Serious violent crime involving injury,,"440,690","399,360",,,0.17,,0.15,
+Property crime,,,"10,352,520","10,030,500",,,7.99,%,7.6,% †
+,Burglary,,"2,166,890","2,175,380",,,1.67,,1.65,
+,Motor vehicle theft,,"429,840","465,650",,,0.33,,0.35,
+,Theft,,"8,297,290","7,941,030",,,6.41,,6.02, †
+Note: Detail may not sum to total because a person or household may experience multiple types of crime. See appendix table 13 for standard errors. ,,,,,,,,,,
+*Comparison year.,,,,,,,,,,
+†Significant difference from comparison year at 95% confidence level.,,,,,,,,,,
+‡Significant difference from comparison year at 90% confidence level. ,,,,,,,,,,
+"a/Number of persons age 12 or older who experienced at least one victimization during the year for violent crime, and number of households that experienced at least one victimization during the year for property crime.",,,,,,,,,,
+"b/Percent of persons age 12 or older who experienced at least one victimization during the year for violent crime, and percent of households that experienced at least one victimization during the year for property crime.",,,,,,,,,,
+c/Excludes homicide because the NCVS is based on interviews with victims and therefore cannot measure murder.,,,,,,,,,,
+d/BJS has initiated projects examining collection methods for self-report data on rape and sexual assault. See NCVS measurement of rape and sexual assault in Methodology for more information.,,,,,,,,,,
+e/Includes victimization committed by intimate partners and family members.,,,,,,,,,,
+"f/Includes victimization committed by current or former spouses, boyfriends, or girlfriends.",,,,,,,,,,
+"g/In the NCVS, serious violent crime includes rape or sexual assault, robbery, and aggravated assault. ",,,,,,,,,,
+"Source: Bureau of Justice Statistics, National Crime Victimization Survey (NCVS), 2014 and 2015.",,,,,,,,,,
